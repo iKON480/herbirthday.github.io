@@ -1,0 +1,28 @@
+*{
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+.containerDiary{
+    padding: 1%;
+    margin-top: 2%;
+    border-radius: 20px;
+    display: flex;
+    align-content: center;
+    align-self: center;
+    justify-self: center;
+    width: 70%;
+    height: 120%;
+    background-color: #f2f2f2;
+    text-align: center;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+.containerDiaryHeader{
+    font-family: sans-serif;
+    margin-top: 5%;
+    font-size: larger;
+    text-align: center;
+}
